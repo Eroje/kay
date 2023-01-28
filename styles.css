@@ -7,11 +7,10 @@ h1 {
     color: pink; 
     font-size: 50px;
 }
-/*
+
 img {
-    background-color: red;
+    height: 250px;
 }
-*/
 p {
     color: greenyellow;
     font-size: 25px;
@@ -22,5 +21,9 @@ p {
     background-color: purple;
 }
 .bats {
-    background-color: pink;
+    background-color: #FFEA20;
+}
+/************ID SELECTOR*************/
+#heading {
+    color: #FFEA20;
 }
