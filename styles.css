@@ -23,6 +23,9 @@ p {
 .bats {
     background-color: #FFEA20;
 }
+.circular{
+    border-radius: 100%;
+}
 /************ID SELECTOR*************/
 #heading {
     color: #FFEA20;
