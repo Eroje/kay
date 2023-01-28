@@ -1,11 +1,26 @@
+/*********TAG SELECTOR***********/
+
 body {
-    background-color: #645CBB;
+    background-color: #86A3B8;
 }
 h1 {
     color: pink; 
     font-size: 50px;
 }
+/*
+img {
+    background-color: red;
+}
+*/
 p {
     color: greenyellow;
     font-size: 25px;
+}
+/************CLASS SELECTOR*************/
+
+.foxes {
+    background-color: purple;
+}
+.bats {
+    background-color: pink;
 }
